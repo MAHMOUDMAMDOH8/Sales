@@ -12,3 +12,10 @@ SSIS (SQL Server Integration Services): SSIS will be utilized to extract, transf
 Data Warehouse (DW): The project will involve designing and implementing a Data Warehouse to provide a unified, integrated, and optimized repository of data for analysis and reporting. The DW will be designed to support efficient querying and reporting by organizing data into a dimensional model such as star or snowflake schema.
 
 Power BI: Power BI will be employed as the primary tool for data visualization, interactive dashboards, and reporting. Power BI allows users to create visually appealing and interactive reports, enabling stakeholders to gain valuable insights from the data stored in the Data Warehouse. The integration with SQL Server and other data sources will enable real-time or near-real-time reporting.
+#sales 
+![Screenshot 1](https://github.com/MAHMOUDMAMDOH8/Sales/assets/111503676/76a56275-54cb-40fc-a6ba-bb4782255046)
+#location
+![Screenshot 2](https://github.com/MAHMOUDMAMDOH8/Sales/assets/111503676/f8e6fd52-95ca-44c9-8d7e-ddb5a7d12de4)
+#product
+![Screenshot 3](https://github.com/MAHMOUDMAMDOH8/Sales/assets/111503676/f00340a4-be02-47c7-8688-076a9056c295)
+
